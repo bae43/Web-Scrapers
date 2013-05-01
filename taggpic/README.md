@@ -1,0 +1,1 @@
+A script that takes in a file of landmark latitude and longitude and finds the wikipedia link to that landmark. Has ~80-90% correctness currently. An independent project for TaggPic <taggpic.com>
