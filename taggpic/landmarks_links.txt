@@ -1,0 +1,11 @@
+0: Eiffel Tower <http://en.wikipedia.org/w/index.php?curid=9232>
+1: Trafalgar Square <http://en.wikipedia.org/w/index.php?curid=62107>
+2: London Eye <http://en.wikipedia.org/w/index.php?curid=30372>
+3: Big Ben <http://en.wikipedia.org/w/index.php?curid=7290308>
+4: Notre Dame de Paris <http://en.wikipedia.org/w/index.php?curid=62233>
+5: Louvre Pyramid <http://en.wikipedia.org/w/index.php?curid=3305865>
+6: Tate Modern <http://en.wikipedia.org/w/index.php?curid=31119>
+7: Colosseo (Rome Metro) <http://en.wikipedia.org/w/index.php?curid=21005104>
+8: Patriarch of Venice <http://en.wikipedia.org/w/index.php?curid=1060896>
+9: The King's College (New York) <http://en.wikipedia.org/w/index.php?curid=3235792>
+10: Paramount Theatre (New York City) <http://en.wikipedia.org/w/index.php?curid=5443906>
